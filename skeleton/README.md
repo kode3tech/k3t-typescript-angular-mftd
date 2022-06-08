@@ -1,0 +1,1 @@
+Typescript Angular Microfrontend Template
